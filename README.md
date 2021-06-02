@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaroslav-Erben
 - 👀 I’m interested in WebDev
-- 🌱 I’m currently learning Node.js and advanced CSS
+- 🌱 I’m currently learning Node.js and CSS
 - 💞️ I’m looking to collaborate on /
 - 📫 How to reach me /
 
